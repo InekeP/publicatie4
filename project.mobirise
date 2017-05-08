@@ -1,0 +1,701 @@
+{
+  "settings": {
+    "name": "Ineke Paulissen NL",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 15,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Ineke Paulissen ",
+        "meta_descr": "copyright, Ineke Paulissen, Paulissen Ineke, Ineke, Paulissen",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-b\" aria-expanded=\"false\">info</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-8\">works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"@PROJECT_PATH@/index.html\">engels</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Ineke Paulissen",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#gallery4-8\" data-toolbar=\"-mbrBtnMove\">werken</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header1-b\" data-toolbar=\"-mbrBtnMove\">info</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "info<br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "center",
+              "color": "#cccccc"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1984-800x793.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1984.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1737-800x694.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1737.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1998-800x799.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1998.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1975-800x790.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1975.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2019-800x807.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2019.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6071-copy-2000x3036-800x1214.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6071-copy-2000x3036.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6070-copy-2000x6712-800x2684.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6070-copy-2000x6712.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6091-copy-2000x3251-800x1300.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6091-copy-2000x3251.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6103-copy-2000x2903-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6103-copy-2000x2903.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3011-800x1204.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x3011.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": true
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2012-800x804.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2012.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2993-800x1197.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2993.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o8v2lztgq41t96ni3o6-2000x2014-800x805.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tumblr-o8v2lztgq41t96ni3o6-2000x2014.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/klimrek-2000x3042-800x1216.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klimrek-2000x3042.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tafel-2000x2690-800x1076.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tafel-2000x2690.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a><br>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1503-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1503.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2007-800x802.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2007.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1994-800x797.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1994.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1440-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1440.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1426-800x570.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1426.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2824-800x1129.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2824.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2015",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1603-800x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1603.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2683-800x1073.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2683.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2793-800x1117.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2793.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              },
+              {
+                "tags": "2014",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1591-800x636.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1591.jpg",
+                "caption": "<a href=\"index.html#gallery4-8\">2016</a><br><a href=\"index.html#gallery4-8\">schilderij</a><br><a href=\"index.html#gallery4-8\">overzicht</a>",
+                "active": false
+              }
+            ],
+            "spacing": "3",
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-8",
+          "articleLayout": false,
+          "allItem": "schilderijen"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1807-800x722.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1807.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "foto's",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3828-copy-2000x1570-800x628.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3828-copy-2000x1570.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3830-copy-2000x937-800x374.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3830-copy-2000x937.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6068-copy-2000x2101-800x840.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6068-copy-2000x2101.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6083-copy-2000x1784-800x713.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6083-copy-2000x1784.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6087-copy-2000x2871-800x1148.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6087-copy-2000x2871.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "collages",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6096-copy-2000x2788-800x1115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6096-copy-2000x2788.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-e",
+          "articleLayout": false,
+          "allItem": "overzicht"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-7",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Deel deze pagina!&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-6",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "contact",
+          "subtitle": "",
+          "form": {
+            "action": "ineke.paulissen1996@gmail.com",
+            "alerts": {
+              "success": "Bedankt!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Naam*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefoon/ GSM*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "bericht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-c",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    }
+  }
+}
